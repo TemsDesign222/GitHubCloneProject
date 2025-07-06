@@ -1,3 +1,1 @@
-Hello from both branches:
-- Master: This is a different change from the master branch!
-- Conflict-test: This is a change from the conflict-test branch!
+Hello, this is a message from my cloned repository!
